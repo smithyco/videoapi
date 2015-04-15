@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'VideoAPI' => array($baseDir . '/src'),
+    'Hubble' => array($baseDir . '/src'),
 );

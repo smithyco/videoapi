@@ -1,6 +1,6 @@
 <?php
 
-namespace VideoAPI;
+namespace Hubble;
 	/**
 	 * InsightSoftware.com VideoPlatform VideoAPI
 	 *
